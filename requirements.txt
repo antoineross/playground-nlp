@@ -1,0 +1,9 @@
+sklearn
+scikit-learn
+scipy
+evaluate
+accelerate
+transformers
+sentencepiece
+# pip install "transformers[sentencepiece]"
+# install pytorch here: https://pytorch.org/get-started/locally/
