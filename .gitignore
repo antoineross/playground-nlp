@@ -1,2 +1,3 @@
 models/
 fine-tuning/test-trainer/
+huggingface-hub/bert-fine-tuned-cola/
