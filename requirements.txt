@@ -5,5 +5,7 @@ evaluate
 accelerate
 transformers
 sentencepiece
+psutil 
+zstandard
 # pip install "transformers[sentencepiece]"
 # install pytorch here: https://pytorch.org/get-started/locally/
